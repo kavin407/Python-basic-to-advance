@@ -1,0 +1,10 @@
+age=20
+print(age,type(age))
+name="adam"
+print(name,type(name))
+price=88.87
+print(price,type(price))
+is_active=True
+print(is_active,type(is_active))
+adresss=None
+print(adresss,type(adresss))
