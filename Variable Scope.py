@@ -1,4 +1,6 @@
 def order():
-    order="Chicken rice"
-    print("you're order is:",order)
-order()
+    food="Chicken rice"
+    print("you're order is:",food)
+    
+order()    
+print(food) # this will give an error because the variable food is only defined within the function order() and cannot be accessed outside of it.
