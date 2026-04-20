@@ -17,3 +17,7 @@ Order of files:
 14.Type Casting 5
 15.Type Casting 6
 16.Type Casting 7
+17.Type Casting 8
+18.Operators 1
+19.Operators 2
+20.Operators Billing Calculation
