@@ -10,5 +10,8 @@ Order of files:
 7.Varaible Scope 2
 8.Variable Scope 3
 9.Variable Scope with one example
-10.Type Casting example 1
-11.Type Casting example 2
+10.Type Casting 1
+11.Type Casting 2
+12.Type Casting 3 
+13.Type Casting 4
+14.Type Casting 5
