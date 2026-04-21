@@ -23,4 +23,7 @@ Order of files:
 20.Operators question 1
 21.Input Handling 1
 22.Input Handling 2
-23.Input Handling question
+23.Input Handling question 
+24.String 1
+25.String 2
+26.
