@@ -37,3 +37,5 @@ Order of files:
 34.For Loop 2
 35.For Loop 3
 36.For Loop 4
+37.Function 1
+38.Function 2
