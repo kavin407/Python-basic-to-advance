@@ -140,7 +140,7 @@ Order of files:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Python-basic-to-advance.git
+git clone https://github.com/kavin407/Python-basic-to-advance.git
 ```
 
 2. Open in any code editor like:
