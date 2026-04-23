@@ -161,6 +161,12 @@ Order of files:
 50.Tuple 1
 51.Tuple 2
 52.Set 1
+53.Set 2
+54.Dictionary 1
+55.Dictionary 2
+56.Dictionary 3
+57.Dictionary 4
+58.Diictinary 5
 ```
 
 ---
