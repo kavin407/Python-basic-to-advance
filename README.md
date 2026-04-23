@@ -1,4 +1,4 @@
-Here’s a more **SEO-optimized, professional README.md** for your repo (better for GitHub search + Google ranking):
+Here’s your **updated SEO-optimized README.md** with the new topics added in the right places:
 
 ---
 
@@ -10,7 +10,6 @@ This project provides structured examples, exercises, and explanations covering 
 > 🚀 Perfect for beginners, students, and aspiring developers.
 
 ---
-
 
 ## 📚 About This Repository
 
@@ -62,6 +61,13 @@ Each file is organized in a **step-by-step learning sequence**, making it easy t
 * String Basics
 * String Operations
 
+### 🔹 Python Data Structures (NEW 🚀)
+
+* Python Lists
+* Tuples in Python
+* Python Sets
+* Python Dictionaries
+
 ### 🔹 Conditional Statements (if-else)
 
 * Simple Conditions
@@ -88,7 +94,7 @@ Follow this exact order for best learning:
 
 ```
 # Python-basic-to-advance
-In this repo you can see the source code of python basic to advance documentaion.
+In this repo you can see the source code of python basic to advance documentation.
 Order of files:
 1.Hello
 2.Variable 1
@@ -96,7 +102,7 @@ Order of files:
 4.Variable 3
 5.Types of Variable
 6.Variable Scope 1
-7.Varaible Scope 2
+7.Variable Scope 2
 8.Variable Scope 3
 9.Variable Scope with one example
 10.Type Casting 1
@@ -115,22 +121,26 @@ Order of files:
 23.Input Handling question 
 24.String 1
 25.String 2
-26.if else 1
-27.if else 2
-28.if else 3
-29.if else 4
-30.if else 5
-31.if else 6
-32.For Loop 1
-33.While Loop 1
-34.For Loop 2
-35.For Loop 3
-36.For Loop 4
-37.Function 1
-38.Function 2
-39.Function 3
-40.Function 4
-41.Function 5
+26.List 1
+27.Tuple 1
+28.Set 1
+29.Dictionary 1
+30.if else 1
+31.if else 2
+32.if else 3
+33.if else 4
+34.if else 5
+35.if else 6
+36.For Loop 1
+37.While Loop 1
+38.For Loop 2
+39.For Loop 3
+40.For Loop 4
+41.Function 1
+42.Function 2
+43.Function 3
+44.Function 4
+45.Function 5
 ```
 
 ---
@@ -196,5 +206,4 @@ If you found this helpful:
 
 This project is open-source and free to use.
 
----
 
