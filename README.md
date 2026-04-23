@@ -63,64 +63,67 @@ Follow this exact order for best learning:
 
 Python-basic-to-advance
 
-In this repo you can see the source code of python basic to advance documentation.
+In this repo you can see the source code of python basic to advanced documentation.
 
 Order of files:
-1.Hello
-2.Variable 1
-3.Variable 2
-4.Variable 3
-5.Types of Variable
-6.Variable Scope 1
-7.Variable Scope 2
-8.Variable Scope 3
-9.Variable Scope with one example
-10.Type Casting 1
-11.Type Casting 2
-12.Type Casting 3
-13.Type Casting 4
-14.Type Casting 5
-15.Type Casting 6
-16.Type Casting 7
-17.Type Casting 8
-18.Operators 1
-19.Operators 2
-20.Operators question 1
-21.Input Handling 1
-22.Input Handling 2
-23.Input Handling question
-24.String 1
-25.String 2
-26.List 1
-27.Tuple 1
-28.Set 1
-29.Dictionary 1
-30.if else 1
-31.if else 2
-32.if else 3
-33.if else 4
-34.if else 5
-35.if else 6
-36.For Loop 1
-37.While Loop 1
-38.For Loop 2
-39.For Loop 3
-40.For Loop 4
-41.Function 1
-42.Function 2
-43.Function 3
-44.Function 4
-45.Function 5
 
+Hello
+Variable 1
+Variable 2
+Variable 3
+Types of Variable
+Variable Scope 1
+Variable Scope 2
+Variable Scope 3
+Variable Scope with one example
+Type Casting 1
+Type Casting 2
+Type Casting 3
+Type Casting 4
+Type Casting 5
+Type Casting 6
+Type Casting 7
+Type Casting 8
+Operators 1
+Operators 2
+Operators question 1
+Input Handling 1
+Input Handling 2
+Input Handling question
+String 1
+String 2
+List 1
+Tuple 1
+Set 1
+Dictionary 1
+if else 1
+if else 2
+if else 3
+if else 4
+if else 5
+if else 6
+For Loop 1
+While Loop 1
+For Loop 2
+For Loop 3
+For Loop 4
+Function 1
+Function 2
+Function 3
+Function 4
+Function 5
 🚀 How to Use This Repo
-Clone the repository:
+
+1. Clone the repository:
 
 git clone https://github.com/kavin407/Python-basic-to-advance.git
 
-Open in any code editor like:
+2. Open in any code editor like:
+
 VS Code
 PyCharm
-Run files step by step:
+
+3. Run files step by step:
 
 python filename.py
 
