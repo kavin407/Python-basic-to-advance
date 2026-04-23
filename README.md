@@ -1,6 +1,3 @@
-Here’s your **updated SEO-optimized README.md** with the new topics added in the right places:
-
----
 
 # 🐍 Python Basic to Advanced – Complete Beginner to Pro Guide
 
