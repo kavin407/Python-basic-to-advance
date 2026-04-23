@@ -136,6 +136,7 @@ Order of files:
 39.Function 3
 40.Function 4
 41.Function 5
+42.Function 6
 ```
 
 ---
