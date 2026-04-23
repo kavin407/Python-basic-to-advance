@@ -23,7 +23,7 @@ Each file is organized in a **step-by-step learning sequence**, making it easy t
 ## 🌐 Documentation
 
 📖 Full Python guide available here:  
-👉 **https://your-website-link.com**
+👉 **https://your-website-link.com** "Coming soon"
 
 > 💡 Tip: Use this repository for **practice** and the documentation for **detailed explanations**
 
