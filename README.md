@@ -134,33 +134,23 @@ Order of files:
 23.Input Handling question 
 24.String 1
 25.String 2
-
-# Data Structures (New Added)
-26.List 1
-27.List 2
-28.Tuple 1
-29.Tuple 2
-30.Dictionary 1
-31.Dictionary 2
-32.Set 1
-
-33.if else 1
-34.if else 2
-35.if else 3
-36.if else 4
-37.if else 5
-38.if else 6
-39.For Loop 1
-40.While Loop 1
-41.For Loop 2
-42.For Loop 3
-43.For Loop 4
-44.Function 1
-45.Function 2
-46.Function 3
-47.Function 4
-48.Function 5
-49.Function 6
+26.if else 1
+27.if else 2
+28.if else 3
+29.if else 4
+30.if else 5
+31.if else 6
+32.For Loop 1
+33.While Loop 1
+34.For Loop 2
+35.For Loop 3
+36.For Loop 4
+37.Function 1
+38.Function 2
+39.Function 3
+40.Function 4
+41.Function 5
+42.Function 6
 ```
 
 ---
@@ -222,7 +212,7 @@ If you found this helpful:
 ## 📜 License
 
 This project is open-source and free to use.  
-Just mention: https://github.com/kavin407  
+Just mention by https://github.com/kavin407  
 
-###Thank you 🙌
+###Thankyou
 ---
