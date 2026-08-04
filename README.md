@@ -221,7 +221,7 @@ If you found this helpful:
 
 * ⭐ Star this repository  
 * 🔁 Share with friends  
-* 🛠️ Contribute improvements  
+* 🛠️ Contribute to improvements  
 
 ---
 
